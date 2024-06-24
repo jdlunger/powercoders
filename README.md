@@ -1,1 +1,5 @@
 # powercoders
+
+```
+java Main.java
+```
