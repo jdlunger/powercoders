@@ -6,7 +6,7 @@ To download this project:
 
   1. Download https://github.com/jdlunger/powercoders/archive/refs/heads/main.zip
   2. Unzip
-  3. Open a command line in this folder (`powercoders-main`)
+  3. Open a command line in the unzipped folder (`powercoders-main`)
 
 Run the vending machine interface example:
 
