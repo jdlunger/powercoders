@@ -2,16 +2,13 @@
 
 Install Java: https://openjdk.org/install/
 
-Install Git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+To download this project:
 
-To download:
+  1. Download https://github.com/jdlunger/powercoders/archive/refs/heads/main.zip
+  2. Unzip
+  3. Open a command line in this folder (`powercoders-main`)
 
-```
-git clone https://github.com/jdlunger/powercoders.git
-cd powercoders
-```
-
-Vending machine interface example:
+Run the vending machine interface example:
 
 ```
 java VendingMachineInterface.java
