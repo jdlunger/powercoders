@@ -2,6 +2,8 @@
 
 Install Java: https://openjdk.org/install/
 
+Install Git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
 To download:
 
 ```
